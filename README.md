@@ -2,4 +2,4 @@
 repo for my class DMBS pratical.
 
 # Experiments:
-* [Experiment 1.1](Experiment_1.1)
+* [Experiment 1.1](Experiment%201.1)
