@@ -2,4 +2,4 @@
 repo for my class DMBS pratical.
 
 # Experiments:
-* [Experiment 1.1](Experiment%201.1/file.md)
+* [Experiment 1.1](experiment%201.1/experiment1.sql)
