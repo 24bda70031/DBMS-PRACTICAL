@@ -44,7 +44,7 @@ sections, and to display output using built-in procedures.
 ``` sql
 DECLARE
     emp_id     NUMBER := 101;
-    emp_name   VARCHAR2(50) := 'Joe';
+    emp_name   VARCHAR2(50) := 'John Doe';
     emp_salary NUMBER := 90000;
 BEGIN
     DBMS_OUTPUT.PUT_LINE('Employee ID : ' || emp_id);
