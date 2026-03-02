@@ -1,0 +1,15 @@
+# Word temp files
+~$*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+
+# Logs
+*.log
